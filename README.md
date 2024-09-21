@@ -1,4 +1,4 @@
-![وصف الصورة](https://github.com/Lolite-go/DLLInjector/blob/main/Capture.PNG)
+![وصف الصورة](https://github.com/Lolite-go/DLLInjector/blob/main/15re.PNG)
 
 ![وصف الصورة](https://github.com/Lolite-go/DLLInjector/blob/main/Capture.PNG)
 
