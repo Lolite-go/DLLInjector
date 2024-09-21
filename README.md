@@ -1,5 +1,4 @@
-[[url=https://dcars.net][img]https://up6.cc/2024/09/172692220326781.png[/img][/url]](https://up6.cc/2024/09/172692220326781.png)
-
+https://up6.cc/2024/09/172692220326781.png
 
 
 
