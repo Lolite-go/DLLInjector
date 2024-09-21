@@ -1,4 +1,5 @@
-https://up6.cc/2024/09/172692220326781.png
+![وصف الصورة](https://github.com/Lolite-go/DLLInjector/blob/main/Capture.PNG)
+
 
 
 
