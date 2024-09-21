@@ -1,0 +1,10 @@
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\bin\x64\Release\DLLInjector.exe.config
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\bin\x64\Release\DLLInjector.exe
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\bin\x64\Release\DLLInjector.pdb
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.csproj.AssemblyReference.cache
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.MainForm.resources
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.Properties.Resources.resources
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.csproj.GenerateResource.cache
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.csproj.CoreCompileInputs.cache
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.exe
+C:\Users\loly\source\repos\DLLInjector\DLLInjector\obj\x64\Release\DLLInjector.pdb
